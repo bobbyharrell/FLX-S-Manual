@@ -1,1 +1,874 @@
-[{"title": "Introduction", "page": 6}, {"title": "Quick Start", "page": 18}, {"title": "Front Panel", "page": 22}, {"title": "Desktops & Windows", "page": 38}, {"title": "Patching", "page": 47}, {"title": "Selection & Intensity", "page": 86}, {"title": "Controlling Fixtures", "page": 106}, {"title": "Palettes", "page": 132}, {"title": "Effects", "page": 140}, {"title": "Cues & Playbacks", "page": 151}, {"title": "User Definable Keys", "page": 205}, {"title": "Macros", "page": 220}, {"title": "Z Key", "page": 227}, {"title": "Blind", "page": 232}, {"title": "Setup", "page": 234}, {"title": "Shortcuts", "page": 298}, {"title": "Phantom ZerOS", "page": 305}, {"title": "Networking", "page": 307}, {"title": "Software Updates", "page": 325}, {"title": "Technical Information", "page": 328}, {"title": "Trouble Shooting", "page": 331}, {"title": "Maintenance", "page": 336}, {"title": "Training", "page": 341}, {"title": "Support", "page": 343}]
+[
+  {
+    "title": "Introduction",
+    "page": 6,
+    "children": [
+      {
+        "title": "Thank You",
+        "page": 7
+      },
+      {
+        "title": "Revisions",
+        "page": 7
+      },
+      {
+        "title": "Hardware Introduction",
+        "page": 11
+      },
+      {
+        "title": "Software Introduction",
+        "page": 14
+      },
+      {
+        "title": "Compliance",
+        "page": 16
+      },
+      {
+        "title": "Warnings & Safety",
+        "page": 17
+      }
+    ]
+  },
+  {
+    "title": "Quick Start",
+    "page": 18,
+    "children": [
+      {
+        "title": "Recording Cues",
+        "page": 18
+      }
+    ]
+  },
+  {
+    "title": "Front Panel",
+    "page": 22,
+    "children": [
+      {
+        "title": "FLX",
+        "page": 22
+      },
+      {
+        "title": "FLX S48",
+        "page": 22
+      },
+      {
+        "title": "FLX S24",
+        "page": 22
+      },
+      {
+        "title": "Solution",
+        "page": 22
+      },
+      {
+        "title": "Solution Introduction",
+        "page": 31
+      },
+      {
+        "title": "ZerOS Wing",
+        "page": 36
+      }
+    ]
+  },
+  {
+    "title": "Desktops & Windows",
+    "page": 38,
+    "children": [
+      {
+        "title": "FLX S Touchscreen",
+        "page": 38
+      },
+      {
+        "title": "External Display",
+        "page": 38
+      },
+      {
+        "title": "External Touchscreen",
+        "page": 40
+      },
+      {
+        "title": "External Desktops",
+        "page": 38
+      },
+      {
+        "title": "View Button",
+        "page": 38
+      },
+      {
+        "title": "Output Window",
+        "page": 38
+      },
+      {
+        "title": "Faders Window",
+        "page": 38
+      }
+    ]
+  },
+  {
+    "title": "Patching",
+    "page": 47,
+    "children": [
+      {
+        "title": "DMX",
+        "page": 48
+      },
+      {
+        "title": "Available Channels",
+        "page": 48
+      },
+      {
+        "title": "ZerOS Library",
+        "page": 48
+      },
+      {
+        "title": "Add Fixtures",
+        "page": 48
+      },
+      {
+        "title": "Searching & Filtering",
+        "page": 56
+      },
+      {
+        "title": "Fixture Creator",
+        "page": 59
+      },
+      {
+        "title": "Edit & Export",
+        "page": 62
+      },
+      {
+        "title": "Missing Fixtures",
+        "page": 64
+      },
+      {
+        "title": "Multi-Part Fixtures",
+        "page": 66
+      },
+      {
+        "title": "Windows Fixture Editor",
+        "page": 66
+      },
+      {
+        "title": "Fixture Schedule",
+        "page": 48
+      },
+      {
+        "title": "Selecting Fixtures",
+        "page": 69
+      },
+      {
+        "title": "Patch Groups",
+        "page": 69
+      },
+      {
+        "title": "Fixture Channel Number",
+        "page": 69
+      },
+      {
+        "title": "Fixture Names",
+        "page": 69
+      },
+      {
+        "title": "Fixture Settings",
+        "page": 69
+      },
+      {
+        "title": "Change Fixture",
+        "page": 69
+      },
+      {
+        "title": "Edit DMX Address",
+        "page": 80
+      },
+      {
+        "title": "Relays",
+        "page": 69
+      },
+      {
+        "title": "DMX In",
+        "page": 69
+      },
+      {
+        "title": "Syntax",
+        "page": 69
+      },
+      {
+        "title": "Deleting Fixtures",
+        "page": 69
+      }
+    ]
+  },
+  {
+    "title": "Selection & Intensity",
+    "page": 86,
+    "children": [
+      {
+        "title": "Channel Faders",
+        "page": 86
+      },
+      {
+        "title": "Commands",
+        "page": 86
+      },
+      {
+        "title": "Intensity Wheel",
+        "page": 86
+      },
+      {
+        "title": "The Clear Button",
+        "page": 86
+      },
+      {
+        "title": "Next & Previous",
+        "page": 86
+      },
+      {
+        "title": "Groups",
+        "page": 95
+      },
+      {
+        "title": "Automatic Groups",
+        "page": 96
+      },
+      {
+        "title": "Recording Groups",
+        "page": 96
+      },
+      {
+        "title": "Using groups via touch",
+        "page": 96
+      },
+      {
+        "title": "Using groups via syntax",
+        "page": 96
+      },
+      {
+        "title": "Referencing Intensity Groups",
+        "page": 96
+      },
+      {
+        "title": "Naming Groups",
+        "page": 96
+      },
+      {
+        "title": "Updating Groups",
+        "page": 96
+      },
+      {
+        "title": "Copying & Moving Groups",
+        "page": 96
+      },
+      {
+        "title": "Deleting Groups",
+        "page": 96
+      }
+    ]
+  },
+  {
+    "title": "Controlling Fixtures",
+    "page": 106,
+    "children": [
+      {
+        "title": "Parameters",
+        "page": 107
+      },
+      {
+        "title": "Multicell Fixtures",
+        "page": 107
+      },
+      {
+        "title": "Colour",
+        "page": 107
+      }
+    ]
+  },
+  {
+    "title": "Palettes",
+    "page": 132,
+    "children": [
+      {
+        "title": "Automatic Palettes",
+        "page": 132
+      },
+      {
+        "title": "Recording Palettes",
+        "page": 132
+      },
+      {
+        "title": "Advanced Palettes",
+        "page": 132
+      },
+      {
+        "title": "Using Palettes",
+        "page": 132
+      },
+      {
+        "title": "Naming Palettes",
+        "page": 132
+      },
+      {
+        "title": "Referencing Palettes",
+        "page": 132
+      },
+      {
+        "title": "Updating Palettes",
+        "page": 132
+      },
+      {
+        "title": "Copying & Moving Palettes",
+        "page": 132
+      },
+      {
+        "title": "Deleting Palettes",
+        "page": 132
+      }
+    ]
+  },
+  {
+    "title": "Effects",
+    "page": 140,
+    "children": [
+      {
+        "title": "Auto Effects",
+        "page": 140
+      },
+      {
+        "title": "Effect Parameters",
+        "page": 140
+      },
+      {
+        "title": "Programming Effect Palettes",
+        "page": 140
+      },
+      {
+        "title": "Waveforms",
+        "page": 140
+      }
+    ]
+  },
+  {
+    "title": "Cues & Playbacks",
+    "page": 151,
+    "children": [
+      {
+        "title": "Master Playback",
+        "page": 152
+      },
+      {
+        "title": "Cues Window",
+        "page": 152
+      },
+      {
+        "title": "Record Options",
+        "page": 152
+      },
+      {
+        "title": "Snapshot & SmartTag",
+        "page": 155
+      },
+      {
+        "title": "Tracking",
+        "page": 155
+      },
+      {
+        "title": "Record Filters",
+        "page": 160
+      },
+      {
+        "title": "Recording Cues",
+        "page": 152
+      },
+      {
+        "title": "Cue Times",
+        "page": 152
+      },
+      {
+        "title": "Updating Cues",
+        "page": 152
+      },
+      {
+        "title": "Update Options",
+        "page": 168
+      },
+      {
+        "title": "Naming",
+        "page": 152
+      },
+      {
+        "title": "Copying",
+        "page": 152
+      },
+      {
+        "title": "Moving",
+        "page": 152
+      },
+      {
+        "title": "Deleting",
+        "page": 152
+      },
+      {
+        "title": "Cue Settings",
+        "page": 152
+      },
+      {
+        "title": "Cue Triggers",
+        "page": 177
+      },
+      {
+        "title": "Cue Macros",
+        "page": 179
+      },
+      {
+        "title": "Move On Dark",
+        "page": 181
+      },
+      {
+        "title": "Chases",
+        "page": 152
+      },
+      {
+        "title": "Chase Settings",
+        "page": 183
+      },
+      {
+        "title": "Playback Settings",
+        "page": 152
+      },
+      {
+        "title": "General",
+        "page": 187
+      },
+      {
+        "title": "Chase",
+        "page": 187
+      },
+      {
+        "title": "Raise and Lower",
+        "page": 187
+      },
+      {
+        "title": "Advanced",
+        "page": 181
+      },
+      {
+        "title": "Special Playback Functions",
+        "page": 152
+      },
+      {
+        "title": "Playing Back Cues",
+        "page": 152
+      },
+      {
+        "title": "Mixing",
+        "page": 198
+      },
+      {
+        "title": "Triggering & Releasing Playbacks",
+        "page": 198
+      },
+      {
+        "title": "Next Cue",
+        "page": 198
+      },
+      {
+        "title": "Pause",
+        "page": 198
+      },
+      {
+        "title": "Goto Cue",
+        "page": 198
+      },
+      {
+        "title": "Cue 0",
+        "page": 198
+      },
+      {
+        "title": "RGB Colour Mixing on Playbacks",
+        "page": 198
+      }
+    ]
+  },
+  {
+    "title": "User Definable Keys",
+    "page": 205,
+    "children": [
+      {
+        "title": "Channel Data UDKs",
+        "page": 205
+      },
+      {
+        "title": "UDK Settings",
+        "page": 207
+      },
+      {
+        "title": "Shortcut UDKs",
+        "page": 205
+      },
+      {
+        "title": "Advanced UDKs",
+        "page": 205
+      },
+      {
+        "title": "Parking",
+        "page": 213
+      },
+      {
+        "title": "Highlight & Rem Dim",
+        "page": 214
+      }
+    ]
+  },
+  {
+    "title": "Macros",
+    "page": 220,
+    "children": [
+      {
+        "title": "User Macros",
+        "page": 220
+      },
+      {
+        "title": "Triggering Macros",
+        "page": 220
+      }
+    ]
+  },
+  {
+    "title": "Z Key",
+    "page": 227,
+    "children": [
+      {
+        "title": "Save Show",
+        "page": 227
+      },
+      {
+        "title": "Lock",
+        "page": 227
+      },
+      {
+        "title": "System Information",
+        "page": 227
+      },
+      {
+        "title": "Guidance",
+        "page": 227
+      },
+      {
+        "title": "Z Encoders",
+        "page": 227
+      }
+    ]
+  },
+  {
+    "title": "Blind",
+    "page": 232,
+    "children": []
+  },
+  {
+    "title": "Setup",
+    "page": 234,
+    "children": [
+      {
+        "title": "Fixture Schedule",
+        "page": 234
+      },
+      {
+        "title": "Add Fixtures",
+        "page": 234
+      },
+      {
+        "title": "Save",
+        "page": 234
+      },
+      {
+        "title": "Load",
+        "page": 234
+      },
+      {
+        "title": "ZerOS Show Files",
+        "page": 237
+      },
+      {
+        "title": "ASCII Show Files",
+        "page": 237
+      },
+      {
+        "title": "Fixture Files",
+        "page": 237
+      },
+      {
+        "title": "ZerOS Library",
+        "page": 237
+      },
+      {
+        "title": "ZerOS Software",
+        "page": 237
+      },
+      {
+        "title": "Settings",
+        "page": 234
+      },
+      {
+        "title": "Desk Type",
+        "page": 243
+      },
+      {
+        "title": "Displays",
+        "page": 243
+      },
+      {
+        "title": "Operational",
+        "page": 243
+      },
+      {
+        "title": "Attributes",
+        "page": 243
+      },
+      {
+        "title": "Record & Update",
+        "page": 243
+      },
+      {
+        "title": "Defaults",
+        "page": 234
+      },
+      {
+        "title": "Universes",
+        "page": 234
+      },
+      {
+        "title": "DMX",
+        "page": 252
+      },
+      {
+        "title": "streamingACN",
+        "page": 252
+      },
+      {
+        "title": "Art-Net",
+        "page": 258
+      },
+      {
+        "title": "CITP",
+        "page": 260
+      },
+      {
+        "title": "Remote Device Management",
+        "page": 262
+      },
+      {
+        "title": "Desk Universes",
+        "page": 252
+      },
+      {
+        "title": "Devices",
+        "page": 234
+      },
+      {
+        "title": "Remote Apps",
+        "page": 267
+      },
+      {
+        "title": "Tracking Backup",
+        "page": 267
+      },
+      {
+        "title": "KiNET",
+        "page": 267
+      },
+      {
+        "title": "Philips Hue",
+        "page": 267
+      },
+      {
+        "title": "Art-Net Devices",
+        "page": 267
+      },
+      {
+        "title": "Enttec USB to DMX Devices",
+        "page": 267
+      },
+      {
+        "title": "RDM Devices",
+        "page": 267
+      },
+      {
+        "title": "Triggers",
+        "page": 234
+      },
+      {
+        "title": "OSC",
+        "page": 279
+      },
+      {
+        "title": "OSC Examples",
+        "page": 280
+      },
+      {
+        "title": "MIDI Timecode",
+        "page": 283
+      },
+      {
+        "title": "MIDI Show Control",
+        "page": 284
+      },
+      {
+        "title": "MIDI Notes",
+        "page": 279
+      },
+      {
+        "title": "Vision.Net",
+        "page": 253
+      },
+      {
+        "title": "CAN",
+        "page": 279
+      },
+      {
+        "title": "Remote Switches",
+        "page": 279
+      },
+      {
+        "title": "DMX In",
+        "page": 253
+      },
+      {
+        "title": "Clear Options",
+        "page": 234
+      },
+      {
+        "title": "Upgrade",
+        "page": 234
+      }
+    ]
+  },
+  {
+    "title": "Shortcuts",
+    "page": 298,
+    "children": [
+      {
+        "title": "Keyboard Shortcuts",
+        "page": 301
+      }
+    ]
+  },
+  {
+    "title": "Phantom ZerOS",
+    "page": 305,
+    "children": []
+  },
+  {
+    "title": "Networking",
+    "page": 307,
+    "children": [
+      {
+        "title": "Building a Network",
+        "page": 308
+      },
+      {
+        "title": "IP Addressing",
+        "page": 308
+      },
+      {
+        "title": "DHCP",
+        "page": 308
+      },
+      {
+        "title": "ZerOS Network Settings",
+        "page": 308
+      },
+      {
+        "title": "Connecting to Capture",
+        "page": 308
+      },
+      {
+        "title": "Example Systems",
+        "page": 308
+      },
+      {
+        "title": "Using the Remote Apps",
+        "page": 308
+      },
+      {
+        "title": "Windows IP Configuration",
+        "page": 308
+      },
+      {
+        "title": "Wireshark",
+        "page": 308
+      }
+    ]
+  },
+  {
+    "title": "Software Updates",
+    "page": 325,
+    "children": [
+      {
+        "title": "ZerOS USB Creator",
+        "page": 325
+      },
+      {
+        "title": "MBR",
+        "page": 326
+      }
+    ]
+  },
+  {
+    "title": "Technical Information",
+    "page": 328,
+    "children": [
+      {
+        "title": "FLX & ZerOS Server",
+        "page": 328
+      },
+      {
+        "title": "FLX S24 & FLX S48",
+        "page": 329
+      }
+    ]
+  },
+  {
+    "title": "Trouble Shooting",
+    "page": 331,
+    "children": [
+      {
+        "title": "Test Mode",
+        "page": 333
+      },
+      {
+        "title": "Reporting a problem",
+        "page": 333
+      },
+      {
+        "title": "ZerOS Startup Tool",
+        "page": 334
+      }
+    ]
+  },
+  {
+    "title": "Maintenance",
+    "page": 336,
+    "children": [
+      {
+        "title": "Mechanical",
+        "page": 337
+      },
+      {
+        "title": "FLX Access Instructions",
+        "page": 339
+      },
+      {
+        "title": "FLX S Access Instructions",
+        "page": 340
+      }
+    ]
+  },
+  {
+    "title": "Training",
+    "page": 341,
+    "children": []
+  },
+  {
+    "title": "Support",
+    "page": 343,
+    "children": []
+  }
+]
